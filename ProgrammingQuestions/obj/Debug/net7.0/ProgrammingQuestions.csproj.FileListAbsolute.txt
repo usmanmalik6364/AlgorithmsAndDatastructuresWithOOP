@@ -12,3 +12,4 @@
 /Users/usmanmalik/Desktop/Programming/LeetCode/ProgrammingQuestions/obj/Debug/net7.0/ProgrammingQuestions.pdb
 /Users/usmanmalik/Desktop/Programming/LeetCode/ProgrammingQuestions/obj/Debug/net7.0/ProgrammingQuestions.genruntimeconfig.cache
 /Users/usmanmalik/Desktop/Programming/LeetCode/ProgrammingQuestions/obj/Debug/net7.0/ref/ProgrammingQuestions.dll
+/Users/usmanmalik/Desktop/Programming/LeetCode/ProgrammingQuestions/obj/Debug/net7.0/ProgrammingQuestions.sourcelink.json
